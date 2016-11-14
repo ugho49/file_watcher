@@ -1,0 +1,13 @@
+{
+    "name": "dev/file_watcher",
+    "require": {
+        "jasonlewis/resource-watcher": "1.2.*",
+        "katzgrau/klogger": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "private": true
+}
