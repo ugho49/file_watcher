@@ -3,8 +3,12 @@
 
 This is a simple watcher of a folder in PHP.
 
-To run the watcher, simply execute this command :
+1. Get the vendors
+```
+composer install
+```
 
-```shell
+2. To run the watcher, simply execute this command :
+```
 php index.php
 ```
